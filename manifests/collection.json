@@ -1,0 +1,13 @@
+{
+  "id" : "https://RichardKingBL.github.io/rk-project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in RichardKingBL/rk-project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://RichardKingBL.github.io/rk-project/manifests/manifest2.json",
+    "label" : "RK manifest"
+  } ]
+}
